@@ -1,1 +1,2 @@
-# main_code
+# cam and gimbal test code
+
