@@ -223,5 +223,3 @@ bool Serial_port::_setup_port(int &fd)
 
 	return true;
 }
-
-
